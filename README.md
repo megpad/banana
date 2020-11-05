@@ -13,3 +13,8 @@
 1. ggg
 1. hhh
 1. jjj
+
+public class Main{
+publicstatic void main (String[]args)
+{System.out.println("Hello");}
+}
